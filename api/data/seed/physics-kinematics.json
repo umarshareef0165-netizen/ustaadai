@@ -1,0 +1,387 @@
+{
+  "book": "Physics Class 9 (PCTB / PECTAA, 2026–27)",
+  "chapter": "Ch 2 — Kinematics",
+  "chapterId": "physics-kinematics",
+  "chunks": [
+    {
+      "formulas": [],
+      "id": "phy-kin-2.1-rest-motion",
+      "keywords": [
+        "rest",
+        "motion",
+        "sakin",
+        "harkat",
+        "position",
+        "reference",
+        "ساکن",
+        "حرکت",
+        "سکون",
+        "جگہ",
+        "dynamics",
+        "kinematics"
+      ],
+      "section": "Rest and Motion",
+      "textEn": "A body is at rest or in motion depending on the reference point. If the position of a body changes with time, it is in motion; otherwise it is at rest.",
+      "textRoman": "Koi jism sakin hai ya harkat mein hai, ye is baat par munhasir hai ke aap usay kis nuqta-e-hawala (reference point) ke lihaaz se dekh rahe hain. Agar waqt ke sath jism ki jagah (position) badal rahi hai to jism harkat mein hai, warna sakin hai. Misal: chalti hui bus mein baitha musafir bus ke lihaaz se sakin hai, lekin sarak ke lihaaz se harkat mein hai.",
+      "textUr": "کوئی جسم ساکن ہے یا حرکت میں ہے، یہ اس بات پر منحصر ہے کہ آپ اسے کس نقطۂ حوالہ (reference point) کے لحاظ سے دیکھ رہے ہیں۔ اگر وقت کے ساتھ جسم کی جگہ (position) بدل رہی ہے تو جسم حرکت میں ہے، ورنہ وہ ساکن ہے۔ مثال: چلتی ہوئی بس میں بیٹھا مسافر بس کے لحاظ سے ساکن ہے، لیکن سڑک کے لحاظ سے حرکت میں ہے۔",
+      "title": "Rest and Motion",
+      "qa": [
+        {
+          "id": "P-Q9",
+          "q": "Kinematics aur dynamics mein kya farq hai?",
+          "a": "کائنیمیٹکس (Kinematics) صرف حرکت کی وضاحت کرتا ہے — فاصلہ، سمتار، اسراع — بغیر یہ بتائے کہ حرکت کیوں ہو رہی ہے۔ ڈائنامکس (Dynamics) حرکت کی وجہ بتاتا ہے — قوتیں، جیسے F = ma۔ مختصر: kinematics 'کیسے'، dynamics 'کیوں'۔",
+          "aRoman": "Kinematics sirf harkat ki wazahat karta hai — fasla, velocity, acceleration — baghair ye bataye ke harkat kyun ho rahi hai. Dynamics harkat ki wajah batata hai — forces, jaise F = ma. Mukhtasar: kinematics 'kaise', dynamics 'kyun'.",
+          "followUp": "ایک گیند نیچے گر رہی ہے — یہ سوال kinematics کا ہے یا dynamics کا؟",
+          "followUpRoman": "Ek gaind neeche gir rahi hai — ye sawal kinematics ka hai ya dynamics ka?"
+        }
+      ]
+    },
+    {
+      "formulas": [],
+      "id": "phy-kin-2.2-scalars-vectors",
+      "keywords": [
+        "scalar",
+        "vector",
+        "magnitude",
+        "direction",
+        "simt",
+        "اسکیلر",
+        "ویکٹر",
+        "مقدار",
+        "سمت"
+      ],
+      "qa": [
+        {
+          "a": "اسکیلر: فاصلہ (distance)، رفتار (speed)، وقت (time)۔ ویکٹر: نقل مکانی (displacement)، سمتار (velocity)، اسراع (acceleration)۔",
+          "aRoman": "Scalar: distance, speed, time. Vector: displacement, velocity, acceleration.",
+          "followUp": "بتائیے: وزن (weight) اسکیلر ہے یا ویکٹر؟ اور کیوں؟",
+          "followUpRoman": "Batayein: weight scalar hai ya vector? Aur kyun?",
+          "id": "P-Q7",
+          "q": "Scalar aur vector ki 3-3 misalein do."
+        }
+      ],
+      "section": "Scalars and Vectors",
+      "textEn": "A scalar has magnitude only (distance, speed, time, mass, energy, temperature). A vector has magnitude and direction (displacement, velocity, acceleration, force, weight).",
+      "textRoman": "Scalar woh miqdar hai jis ki sirf magnitude hoti hai, simt nahi — jese distance, speed, time, mass, energy aur temperature. Vector woh miqdar hai jis ki magnitude ke sath simt bhi hoti hai — jese displacement, velocity, acceleration, force aur weight.",
+      "textUr": "اسکیلر (scalar) وہ مقدار ہے جس کی صرف مقدار (magnitude) ہوتی ہے، سمت نہیں — جیسے فاصلہ (distance)، رفتار (speed)، وقت (time)، کمیت (mass)، توانائی (energy) اور درجہ حرارت (temperature)۔ ویکٹر (vector) وہ مقدار ہے جس کی مقدار کے ساتھ سمت بھی ہوتی ہے — جیسے نقل مکانی (displacement)، سمتار (velocity)، اسراع (acceleration)، قوت (force) اور وزن (weight)۔",
+      "title": "Scalars and Vectors"
+    },
+    {
+      "formulas": [],
+      "id": "phy-kin-2.3-distance-displacement",
+      "keywords": [
+        "distance",
+        "displacement",
+        "fasla",
+        "naql",
+        "makani",
+        "فاصلہ",
+        "نقل مکانی",
+        "path",
+        "rasta"
+      ],
+      "quiz": [
+        {
+          "answer": "Ghalat",
+          "explanation": "Displacement vector hai — is ki magnitude ke sath direction bhi hoti hai.",
+          "explanationUr": "نقل مکانی ویکٹر ہے — اس کی مقدار کے ساتھ سمت بھی ہوتی ہے۔",
+          "id": "P-QUIZ-6",
+          "options": [
+            "Sahi",
+            "Ghalat"
+          ],
+          "question": "Displacement scalar quantity hai. (Sahi / Ghalat)",
+          "topic": "Distance and Displacement",
+          "type": "truefalse"
+        }
+      ],
+      "section": "Distance and Displacement",
+      "textEn": "Distance is the total path length travelled (scalar). Displacement is the shortest straight-line distance from start to end, with direction (vector).",
+      "textRoman": "Distance woh kul rasta hai jo jism tay karta hai — ye scalar hai, is ki sirf magnitude hoti hai. Displacement shuruati nuqtay se aakhri nuqtay tak ki seedhi lakeer ki lambai hai, simt ke sath — ye vector hai. Agar aap gol chakkar laga kar wapas apni jagah aa jayein to distance zero se zyada hoga, lekin displacement zero hogi.",
+      "textUr": "فاصلہ (distance) وہ کل راستہ ہے جو جسم طے کرتا ہے — یہ اسکیلر ہے، اس کی صرف مقدار ہوتی ہے۔ نقل مکانی (displacement) شروعاتی نقطے سے آخری نقطے تک کی سیدھی لکیر کی لمبائی ہے، سمت کے ساتھ — یہ ویکٹر ہے۔ اگر آپ گول چکر لگا کر واپس اپنی جگہ آ جائیں تو فاصلہ صفر سے زیادہ ہوگا، لیکن نقل مکانی صفر ہوگی۔",
+      "title": "Distance and Displacement"
+    },
+    {
+      "formulas": [
+        "v = S/t",
+        "v = d/t"
+      ],
+      "id": "phy-kin-2.4-speed-velocity",
+      "keywords": [
+        "speed",
+        "velocity",
+        "raftar",
+        "simtar",
+        "farq",
+        "رفتار",
+        "سمتار",
+        "اوسط",
+        "average"
+      ],
+      "qa": [
+        {
+          "a": "رفتار (speed) صرف یہ بتاتی ہے کہ آپ کتنی تیزی سے چل رہے ہیں: v = S/t، یہ اسکیلر ہے۔ سمتار (velocity) میں سمت بھی ہوتی ہے: v = نقل مکانی ÷ وقت، یہ ویکٹر ہے۔ مثال: گول چکر میں واپس آنے پر فاصلہ صفر سے زیادہ ہوتا ہے لیکن نقل مکانی صفر، اس لیے اوسط سمتار صفر ہوتی ہے۔",
+          "aRoman": "Speed sirf kitni tezi se chal rahe ho batati hai (S/t, scalar); velocity mein direction bhi hoti hai (displacement/time, vector). Misal: gol chakkar mein wapas aane par distance > 0 lekin displacement 0, is liye average velocity 0.",
+          "followUp": "اگر ایک گاڑی 100 میٹر شمال جائے اور پھر 100 میٹر جنوب واپس آ جائے تو اس کی اوسط سمتار کتنی ہوگی؟",
+          "followUpRoman": "Agar aik gari 100 meter shumal jaye aur phir 100 meter junoob wapas aa jaye to is ki average velocity kitni hogi?",
+          "id": "P-Q1",
+          "q": "Speed aur velocity mein kya farq hai?"
+        }
+      ],
+      "quiz": [
+        {
+          "answer": "m/s",
+          "explanation": "Speed = distance / time, is liye unit metre per second (m/s) hai. m/s² acceleration ka unit hai.",
+          "explanationUr": "رفتار = فاصلہ ÷ وقت، اس لیے یونٹ میٹر فی سیکنڈ (m/s) ہے۔ m/s² اسراع کا یونٹ ہے۔",
+          "id": "P-QUIZ-1",
+          "options": [
+            "m/s²",
+            "m/s",
+            "km",
+            "s/m"
+          ],
+          "question": "Speed ka SI unit kya hai?",
+          "topic": "Speed and Velocity",
+          "type": "mcq"
+        }
+      ],
+      "section": "Speed and Velocity",
+      "textEn": "Average speed v = S/t (scalar, m/s). Average velocity v = d/t (vector, m/s). Speed tells how fast; velocity also tells in which direction.",
+      "textRoman": "Average speed = tay shuda fasla / waqt, yani v = S/t. Ye scalar hai aur is ka SI unit m/s hai. Average velocity = displacement / waqt, yani v = d/t. Ye vector hai, kyunki is mein simt shamil hai. Speed sirf ye batati hai ke aap kitni tezi se chal rahe hain; velocity ye bhi batati hai ke aap kis simt ja rahe hain.",
+      "textUr": "اوسط رفتار (average speed) = طے شدہ فاصلہ ÷ وقت، یعنی v = S/t۔ یہ اسکیلر ہے اور اس کا SI یونٹ m/s ہے۔ اوسط سمتار (average velocity) = نقل مکانی ÷ وقت، یعنی v = d/t۔ یہ ویکٹر ہے، کیونکہ اس میں سمت شامل ہے۔ رفتار صرف یہ بتاتی ہے کہ آپ کتنی تیزی سے چل رہے ہیں؛ سمتار یہ بھی بتاتی ہے کہ آپ کس سمت جا رہے ہیں۔",
+      "title": "Speed and Velocity"
+    },
+    {
+      "formulas": [
+        "a = (vf − vi)/t"
+      ],
+      "id": "phy-kin-2.5-acceleration",
+      "keywords": [
+        "acceleration",
+        "asraa",
+        "retardation",
+        "اسراع",
+        "velocity change",
+        "uniform",
+        "ایکسلریشن"
+      ],
+      "qa": [
+        {
+          "a": "سمتار میں وقت کے ساتھ تبدیلی کی شرح: a = (vf − vi) / t، یونٹ m/s²۔ اگر سمتار بڑھ رہی ہے تو اسراع مثبت، کم ہو رہی ہے تو منفی (retardation)۔",
+          "aRoman": "Velocity mein waqt ke sath tabdeeli ki sharah: a = (vf − vi)/t, unit m/s². Agar velocity barh rahi hai to acceleration positive, kam ho rahi hai to negative (retardation).",
+          "followUp": "ایک گاڑی کی سمتار 20 m/s سے 5 سیکنڈ میں 0 m/s ہو جائے تو اسراع کتنا ہوگا؟",
+          "followUpRoman": "Aik gari ki velocity 20 m/s se 5 second mein 0 m/s ho jaye to acceleration kitna hoga?",
+          "id": "P-Q2",
+          "q": "Acceleration kya hoti hai?"
+        }
+      ],
+      "section": "Acceleration",
+      "textEn": "Acceleration is the rate of change of velocity: a = (vf − vi)/t, unit m/s², vector. Increasing velocity means positive acceleration; decreasing velocity means negative acceleration (retardation).",
+      "textRoman": "Acceleration velocity mein waqt ke sath tabdeeli ki sharah hai: a = (vf − vi) / t. Is ka SI unit m/s² hai aur ye vector hai. Agar velocity barh rahi hai to acceleration positive hota hai; agar velocity kam ho rahi hai to acceleration negative hota hai, jisay retardation bhi kehte hain. Uniform acceleration mein velocity har second mein barabar miqdar se badalti hai.",
+      "textUr": "اسراع (acceleration) سمتار میں وقت کے ساتھ تبدیلی کی شرح ہے: a = (vf − vi) / t۔ اس کا SI یونٹ m/s² ہے اور یہ ویکٹر ہے۔ اگر سمتار بڑھ رہی ہے تو اسراع مثبت (positive) ہوتا ہے؛ اگر سمتار کم ہو رہی ہے تو اسراع منفی (negative) ہوتا ہے، جسے retardation بھی کہتے ہیں۔ یکساں اسراع (uniform acceleration) میں سمتار ہر سیکنڈ میں برابر مقدار سے بدلتی ہے۔",
+      "title": "Acceleration"
+    },
+    {
+      "formulas": [
+        "vf = vi + at",
+        "S = vi·t + ½at²",
+        "2aS = vf² − vi²"
+      ],
+      "id": "phy-kin-2.6-eom",
+      "keywords": [
+        "equation",
+        "motion",
+        "vf",
+        "vi",
+        "equations of motion",
+        "harkat",
+        "مساوات",
+        "حرکت",
+        "uniform acceleration",
+        "numerical",
+        "car",
+        "final velocity",
+        "distance"
+      ],
+      "qa": [
+        {
+          "a": "(1) vf = vi + at (2) S = vi·t + ½at² (3) 2aS = vf² − vi²۔ یہ صرف یکساں اسراع (uniform acceleration) کے لیے ہیں۔",
+          "aRoman": "(1) vf = vi + at (2) S = vi·t + ½at² (3) 2aS = vf² − vi². Ye sirf uniform acceleration ke liye hain.",
+          "followUp": "دوسری مساوات S = vi·t + ½at² میں اگر vi = 0 ہو تو S کس چیز کے برابر ہوگا؟",
+          "followUpRoman": "Doosri equation S = vi·t + ½at² mein agar vi = 0 ho to S kis cheez ke barabar hoga?",
+          "id": "P-Q3",
+          "q": "Teeno equations of motion likho."
+        },
+        {
+          "a": "دیا گیا: vi = 0 m/s، a = 2 m/s²، t = 5 s۔ پہلا قدم: vf = vi + at = 0 + (2 × 5) = 10 m/s۔ دوسرا قدم: S = vi·t + ½at² = (0 × 5) + ½ × 2 × 25 = 25 m۔ جواب: آخری سمتار 10 m/s، فاصلہ 25 میٹر۔",
+          "aRoman": "Diya gaya: vi = 0 m/s, a = 2 m/s², t = 5 s. Pehla qadam: vf = vi + at = 0 + (2 × 5) = 10 m/s. Doosra qadam: S = vi·t + ½at² = (0 × 5) + ½ × 2 × 25 = 25 m. Jawab: final velocity 10 m/s, distance 25 metre.",
+          "followUp": "اگر اسراع 4 m/s² ہوتا تو 5 سیکنڈ بعد آخری سمتار کتنی ہوتی؟ پہلے خود اندازہ لگاؤ، پھر بتاؤ۔",
+          "followUpRoman": "Agar acceleration 4 m/s² hoti to 5 second baad final velocity kitni hoti? Pehle khud andaza lagao, phir batao.",
+          "id": "P-Q6",
+          "q": "Ek car rest se 2 m/s² se 5 second chalti hai — final velocity aur distance?"
+        }
+      ],
+      "quiz": [
+        {
+          "answer": "acceleration",
+          "explanation": "Is equation mein 'a' acceleration hai — velocity mein tabdeeli ki sharah.",
+          "explanationUr": "اس مساوات میں 'a' اسراع ہے — سمتار میں تبدیلی کی شرح۔",
+          "id": "P-QUIZ-2",
+          "options": [
+            "area",
+            "acceleration",
+            "average speed",
+            "amplitude"
+          ],
+          "question": "vf = vi + at mein \"a\" kya hai?",
+          "topic": "Equations of Motion",
+          "type": "mcq"
+        },
+        {
+          "answer": "20",
+          "answerUnit": "m/s",
+          "explanation": "vf = vi + at = 0 + 4 × 5 = 20 m/s.",
+          "explanationUr": "vf = vi + at = 0 + 4 × 5 = 20 m/s۔",
+          "id": "P-QUIZ-3",
+          "question": "vi = 0, a = 4 m/s², t = 5 s → vf = ? (sirf number, m/s mein)",
+          "topic": "Equations of Motion",
+          "type": "numerical"
+        },
+        {
+          "answer": "50",
+          "answerUnit": "m",
+          "explanation": "S = vi·t + ½at² = 0 + ½ × 4 × 25 = 50 m.",
+          "explanationUr": "S = vi·t + ½at² = 0 + ½ × 4 × 25 = 50 m۔",
+          "id": "P-QUIZ-4",
+          "question": "Upar wali car (vi = 0, a = 4 m/s², t = 5 s) ne kitni distance tay ki? (sirf number, metre mein)",
+          "topic": "Equations of Motion",
+          "type": "numerical"
+        }
+      ],
+      "section": "Equations of Motion",
+      "textEn": "The three equations of motion for uniform acceleration: (1) vf = vi + at (2) S = vi·t + ½at² (3) 2aS = vf² − vi².",
+      "textRoman": "Uniform acceleration ke liye harkat ki teen equations hain: (1) vf = vi + at (2) S = vi·t + ½at² (3) 2aS = vf² − vi². In mein vi initial velocity, vf final velocity, a acceleration, t time aur S distance hai. Ye equations sirf is surat mein durust hain jab acceleration uniform ho.",
+      "textUr": "یکساں اسراع کے لیے حرکت کی تین مساواتیں ہیں: (1) vf = vi + at (2) S = vi·t + ½at² (3) 2aS = vf² − vi²۔ ان میں vi ابتدائی سمتار، vf آخری سمتار، a اسراع، t وقت اور S فاصلہ ہے۔ یہ مساواتیں صرف اس صورت میں درست ہیں جب اسراع یکساں (uniform) ہو۔",
+      "title": "Equations of Motion (Uniform Acceleration)"
+    },
+    {
+      "formulas": [],
+      "id": "phy-kin-2.7-graphs",
+      "keywords": [
+        "graph",
+        "gradient",
+        "slope",
+        "dhalwan",
+        "area",
+        "گراف",
+        "جھکاؤ",
+        "distance-time",
+        "speed-time"
+      ],
+      "qa": [
+        {
+          "a": "جھکاؤ (gradient) = رفتار (speed)۔ سیدھی لکیر = یکساں رفتار؛ زیادہ ڈھلوان = زیادہ رفتار۔ نوٹ: BISE 2027 سمارٹ سلیبس میں یہ حصہ خارج ہے — صرف پس منظر کے لیے۔",
+          "aRoman": "Gradient = speed. Seedha (straight) line = uniform speed; tedha/steep line = zyada speed. Note: BISE 2027 smart syllabus mein ye section deleted hai — background ke liye.",
+          "followUp": "رفتار–وقت گراف کے نیچے رقبہ (area) کیا بتاتا ہے؟",
+          "followUpRoman": "Speed–time graph ke neeche area kya batata hai?",
+          "id": "P-Q4",
+          "q": "Distance-time graph ka gradient kya batata hai?"
+        },
+        {
+          "a": "رقبہ (area) = طے کی گئی مسافت (distance)۔ اور گراف کا جھکاؤ = اسراع (acceleration)۔",
+          "aRoman": "Area = tay ki gayi distance. Gradient = acceleration.",
+          "followUp": "اگر رفتار–وقت گراف ایک سیدھی افقی لکیر ہو تو اسراع کتنا ہوگا؟",
+          "followUpRoman": "Agar speed–time graph aik seedhi horizontal lakeer ho to acceleration kitna hoga?",
+          "id": "P-Q8",
+          "q": "Speed-time graph ke neeche area kya hota hai?"
+        }
+      ],
+      "quiz": [
+        {
+          "answer": "speed",
+          "backgroundOnly": true,
+          "explanation": "Distance–time graph ka gradient speed hota hai. Ye sawal background ke liye hai — BISE 2027 smart syllabus mein ye section deleted hai.",
+          "explanationUr": "فاصلہ–وقت گراف کا جھکاؤ رفتار ہوتا ہے۔ یہ سوال پس منظر کے لیے ہے — BISE 2027 سمارٹ سلیبس میں یہ حصہ خارج ہے۔",
+          "id": "P-QUIZ-8",
+          "options": [
+            "acceleration",
+            "speed",
+            "distance",
+            "time"
+          ],
+          "question": "Distance–time graph ka gradient batata hai: (background — BISE 2027 exam se kharij)",
+          "topic": "Graphs",
+          "type": "mcq"
+        }
+      ],
+      "section": "Graphs",
+      "textEn": "The gradient of a distance–time graph gives speed; the gradient of a speed–time graph gives acceleration, and the area under it gives distance covered. Note: gradient sections are deleted from the BISE 2027 exam (Smart Syllabus) — background only.",
+      "textRoman": "Distance–time graph ka gradient speed batata hai: seedhi lakeer ka matlab uniform speed, aur zyada dhalwan ka matlab zyada speed. Speed–time graph ka gradient acceleration batata hai, aur graph ke neeche area tay shuda distance batata hai. Note: BISE 2027 smart syllabus ke mutabiq graph ke gradient wale hisse exam ke liye kharij kar diye gaye hain — ye sirf background ke liye hai.",
+      "textUr": "فاصلہ–وقت گراف (distance–time graph) کا جھکاؤ (gradient) رفتار (speed) بتاتا ہے: سیدھی لکیر کا مطلب یکساں رفتار، اور زیادہ ڈھلوان کا مطلب زیادہ رفتار۔ رفتار–وقت گراف (speed–time graph) کا جھکاؤ اسراع (acceleration) بتاتا ہے، اور گراف کے نیچے رقبہ (area) طے شدہ فاصلہ بتاتا ہے۔ نوٹ: BISE 2027 سمارٹ سلیبس کے مطابق گراف کے جھکاؤ والے حصے امتحان کے لیے خارج کر دیے گئے ہیں — یہ صرف پس منظر (background) کے لیے ہے۔",
+      "title": "Graphs — Distance–Time and Speed–Time"
+    },
+    {
+      "formulas": [
+        "vf = gt",
+        "S = ½gt²",
+        "g = 10 m/s² (textbook)"
+      ],
+      "id": "phy-kin-2.8-gravity",
+      "keywords": [
+        "gravity",
+        "free fall",
+        "g",
+        "girna",
+        "کثافت",
+        "کشش ثقل",
+        "freefall",
+        "stone",
+        "pathar"
+      ],
+      "qa": [
+        {
+          "a": "نصابی کتاب کے عددی سوالوں میں g = 10 m/s² لیتے ہیں (اصل قدر 9.8 m/s²)۔ نیچے گرتی چیز کے لیے a کی جگہ g لکھو۔",
+          "aRoman": "Textbook numericals mein g = 10 m/s² lete hain (asal value 9.8 m/s²). Neeche girti cheez ke liye a ki jagah g likho.",
+          "followUp": "ایک پتھر آرام سے گرایا جائے تو 3 سیکنڈ بعد اس کی سمتار کتنی ہوگی؟ (g = 10 m/s² لو)",
+          "followUpRoman": "Aik pathar aaram se giraya jaye to 3 second baad is ki velocity kitni hogi? (g = 10 m/s² lo)",
+          "id": "P-Q5",
+          "q": "Free fall mein g ki value kya lete hain?"
+        }
+      ],
+      "quiz": [
+        {
+          "answer": "10 m/s²",
+          "explanation": "Textbook numericals mein g = 10 m/s² liya jata hai; asal value 9.8 m/s² hai.",
+          "explanationUr": "نصابی کتاب کے عددی سوالوں میں g = 10 m/s² لیا جاتا ہے؛ اصل قدر 9.8 m/s² ہے۔",
+          "id": "P-QUIZ-5",
+          "options": [
+            "9.8",
+            "10 m/s²",
+            "5",
+            "20"
+          ],
+          "question": "Free fall mein textbook g ki value kya leti hai?",
+          "topic": "Motion under Gravity",
+          "type": "mcq"
+        },
+        {
+          "answer": "50",
+          "answerUnit": "m/s",
+          "explanation": "vf = gt = 10 × 5 = 50 m/s. Distance S = ½gt² = ½ × 10 × 25 = 125 m.",
+          "explanationUr": "vf = gt = 10 × 5 = 50 m/s۔ فاصلہ S = ½gt² = ½ × 10 × 25 = 125 m۔",
+          "id": "P-QUIZ-7",
+          "question": "Ek pathar rest se giraya, 5 s baad velocity kitni? (sirf number, m/s mein; g = 10 m/s²)",
+          "topic": "Motion under Gravity",
+          "type": "numerical"
+        }
+      ],
+      "section": "Motion under Gravity",
+      "textEn": "In free fall, acceleration is replaced by g. Textbook problems use g = 10 m/s² (actual value 9.8 m/s²). For a body dropped from rest, vi = 0, so vf = gt and S = ½gt².",
+      "textRoman": "Free fall mein acceleration ki jagah gravity ka acceleration g lete hain. Textbook ke numericals mein g = 10 m/s² liya jata hai (asal value 9.8 m/s² hai). Aaram se girai gayi cheez ke liye vi = 0 hota hai, aur equations ye ban jati hain: vf = gt aur S = ½gt².",
+      "textUr": "آزادانہ گرنے والی چیز (free fall) میں اسراع کی جگہ کششِ ثقل کا اسراع g لیتے ہیں۔ نصابی کتاب کے عددی سوالوں میں g = 10 m/s² لیا جاتا ہے (اصل قدر 9.8 m/s² ہے)۔ آرام سے گرائی گئی چیز کے لیے vi = 0 ہوتا ہے، اور مساواتیں یہ بن جاتی ہیں: vf = gt اور S = ½gt²۔",
+      "title": "Motion under Gravity / Free Fall"
+    }
+  ],
+  "class": 9,
+  "subject": "physics"
+}
