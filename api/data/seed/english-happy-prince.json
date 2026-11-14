@@ -1,0 +1,319 @@
+{
+  "book": "English Class 10 (PCTB / PECTAA, 2026–27)",
+  "chapter": "Unit 5 — The Happy Prince",
+  "chapterId": "english-happy-prince",
+  "chunks": [
+    {
+      "formulas": [],
+      "id": "eng-hp-5.1-story",
+      "keywords": [
+        "happy prince",
+        "story",
+        "statue",
+        "swallow",
+        "ruby",
+        "sapphire",
+        "gold leaf",
+        "seamstress",
+        "playwright",
+        "match-girl",
+        "lead heart",
+        "angel",
+        "خوش شہزادہ",
+        "ابابیل",
+        "مجسمہ"
+      ],
+      "qa": [
+        {
+          "a": "مجسمہ اوپر سے سونے کے ورق (gold leaf) سے ڈھکا تھا، آنکھیں دو نیلم (sapphires) تھیں، اور تلوار کی مٹھی (hilt) میں ایک یاقوت (ruby) تھا۔",
+          "aRoman": "Statue upar se gold leaf se dhaka tha, aankhein do sapphires theen, aur talwaar ki hilt mein aik ruby tha.",
+          "followUp": "شہزادے کا مجسمہ سونے کا کیوں لگتا تھا، جبکہ اس کا دل سیسے (lead) کا تھا؟",
+          "followUpRoman": "Shahzade ka statue sone ka kyun lagta tha, jabke is ka dil lead ka tha?",
+          "id": "E-Q2",
+          "q": "Statue kis cheez se bana tha?"
+        },
+        {
+          "a": "ایک غریب درزن (seamstress) کو، جس کا بیٹا بیمار تھا۔ ابابیل (swallow) یاقوت لے کر گیا۔",
+          "aRoman": "Aik ghareeb darzan (seamstress) ko, jis ka beta beemar tha. Swallow ruby le kar gaya.",
+          "followUp": "شہزادے نے اپنی دوسری آنکھ کا نیلم کس کو دیا تھا؟",
+          "followUpRoman": "Shahzade ne apni doosri aankh ka neelam kis ko diya tha?",
+          "id": "E-Q3",
+          "q": "Prince ne ruby kis ko diya?"
+        },
+        {
+          "a": "اس نے سردیوں میں شہزادے کے پاس رہنا چنا اور ہجرت (migration) نہیں کی — وفاداری اور قربانی کی وجہ سے۔ آخر میں وہ شہزادے کے پاؤں کے پاس مر گیا۔",
+          "aRoman": "Us ne sardiyon mein Prince ke paas rehna chuna aur migration nahi ki — wafadari aur qurbani ki wajah se. Aakhir mein woh Prince ke paon ke paas mar gaya.",
+          "followUp": "ابابیل شروع میں کیسا تھا اور آخر میں کیسا بن گیا؟",
+          "followUpRoman": "Swallow shuru mein kaisa tha aur aakhir mein kaisa ban gaya?",
+          "id": "E-Q5",
+          "q": "Swallow akhir mein kyun mar gaya?"
+        },
+        {
+          "a": "شہر کی دو سب سے قیمتی چیزیں: شہزادے کا سیسے کا دل (lead heart) اور مرا ہوا ابابیل — خدا کے پاس۔",
+          "aRoman": "Sheher ki do sab se qeemti cheezein: Prince ka lead heart aur mara hua swallow — God ke paas.",
+          "followUp": "خدا کے نزدیک یہ دو چیزیں سب سے قیمتی کیوں تھیں؟",
+          "followUpRoman": "God ke nazdeek ye do cheezein sab se qeemti kyun theen?",
+          "id": "E-Q8",
+          "q": "Aakhir mein angel kya le kar gaya?"
+        }
+      ],
+      "quiz": [
+        {
+          "answer": "sapphire",
+          "explanation": "Statue ki aankhein do sapphires (neelam) ki bani thin.",
+          "explanationUr": "مجسمے کی آنکھیں دو نیلم (sapphires) کی بنی تھیں۔",
+          "id": "E-QUIZ-2",
+          "options": [
+            "ruby",
+            "sapphire",
+            "diamond",
+            "emerald"
+          ],
+          "question": "Statue ki aankhein kis ki bani thin?",
+          "topic": "The Story",
+          "type": "mcq"
+        },
+        {
+          "answer": "sword-hilt",
+          "explanation": "Ruby talwaar ki hilt (muth) mein laga tha.",
+          "explanationUr": "یاقوت تلوار کی مٹھی (hilt) میں لگا تھا۔",
+          "id": "E-QUIZ-3",
+          "options": [
+            "crown",
+            "sword-hilt",
+            "shoe",
+            "belt"
+          ],
+          "question": "Ruby kahan laga tha?",
+          "topic": "The Story",
+          "type": "mcq"
+        },
+        {
+          "answer": "Ghalat",
+          "explanation": "Swallow ne migration nahi ki — woh Prince ke paas ruk gaya aur sardiyon mein mar gaya.",
+          "explanationUr": "ابابیل نے ہجرت نہیں کی — وہ شہزادے کے پاس رک گیا اور سردیوں میں مر گیا۔",
+          "id": "E-QUIZ-4",
+          "options": [
+            "Sahi",
+            "Ghalat"
+          ],
+          "question": "Swallow ne migration kar li thi. (Sahi / Ghalat)",
+          "topic": "The Story",
+          "type": "truefalse"
+        },
+        {
+          "answer": "Sheher ke ghareeb logon ko",
+          "explanation": "Prince ne apna gold leaf sheher ke ghareeb logon mein baant diya.",
+          "explanationUr": "شہزادے نے اپنا سونے کا ورق شہر کے غریب لوگوں میں بانٹ دیا۔",
+          "id": "E-QUIZ-6",
+          "options": [
+            "Sheher ke ghareeb logon ko",
+            "Apne doston ko",
+            "Badshah ko",
+            "Khazane mein rakha"
+          ],
+          "question": "Prince ne apna gold leaf kis ko diya?",
+          "topic": "The Story",
+          "type": "mcq"
+        }
+      ],
+      "section": "The Story",
+      "textEn": "A golden statue of a prince — gold leaf, two sapphires for eyes, a ruby in his sword-hilt — stands above a town. A swallow, delaying migration, rests at the statue's feet. The Prince lived a sheltered life in the palace and never saw suffering; now he can see the town's poverty and asks the swallow to carry his jewels to the poor: the ruby to a poor seamstress whose son is ill, the sapphires to a young playwright and a match-girl, then his gold leaf to the poor. The swallow stays through winter and dies at the Prince's feet. The statue is pulled down, but its lead heart will not melt. God sends an angel to bring Him the two most precious things in the city: the lead heart and the dead swallow.",
+      "textRoman": "Sheher ke upar aik sunehra mujasma khara hai — aik shahzada, jis par gold leaf charha hai, aankhein do sapphires ki hain aur talwaar ki hilt mein aik ruby laga hai. Aik ababeel (swallow) hijrat mein der kar ke mujasme ke paon ke paas aaram karta hai. Shahzada mahal mein mehfooz zindagi guzarta raha aur us ne kabhi dukh nahi dekha tha; ab woh sheher ki ghurbat dekh sakta hai aur ababeel se kehta hai ke us ke zevar ghareebon tak pahuncha de: ruby aik ghareeb darzan ko jis ka beta beemar hai, sapphires aik naujawan dramay-nigar aur aik match bechne wali larki ko, phir apna gold leaf ghareebon ko. Ababeel sardiyon bhar wahin rehta hai aur shahzade ke paon ke paas mar jata hai. Mujasma gira diya jata hai, lekin is ka lead heart nahi pighalta. Khuda aik farishta bhejta hai jo sheher ki do sab se qeemti cheezein le jaye: lead heart aur mara hua ababeel.",
+      "textUr": "شہر کے اوپر ایک سنہرا مجسمہ کھڑا ہے — ایک شہزادہ، جس پر سونے کا ورق چڑھا ہے، آنکھیں دو نیلم (sapphires) کی ہیں اور تلوار کی مٹھی (hilt) میں ایک یاقوت (ruby) لگا ہے۔ ایک ابابیل (swallow) ہجرت میں دیر کر کے مجسمے کے پاؤں کے پاس آرام کرتا ہے۔ شہزادہ محل میں محفوظ زندگی گزارتا رہا اور اس نے کبھی دکھ نہیں دیکھا تھا؛ اب وہ شہر کی غربت دیکھ سکتا ہے اور ابابیل سے کہتا ہے کہ اس کے زیور غریبوں تک پہنچا دے: یاقوت ایک غریب درزن کو جس کا بیٹا بیمار ہے، نیلم ایک نوجوان ڈرامے نگار اور ایک ماچس بیچنے والی لڑکی کو، پھر اپنا سونے کا ورق غریبوں کو۔ ابابیل سردیوں بھر وہیں رہتا ہے اور شہزادے کے پاؤں کے پاس مر جاتا ہے۔ مجسمہ گرا دیا جاتا ہے، لیکن اس کا سیسے کا دل (lead heart) نہیں پگھلتا۔ خدا ایک فرشتہ بھیجتا ہے جو شہر کی دو سب سے قیمتی چیزیں لے جائے: سیسے کا دل اور مرا ہوا ابابیل۔",
+      "title": "The Story"
+    },
+    {
+      "formulas": [],
+      "id": "eng-hp-5.2-themes",
+      "keywords": [
+        "theme",
+        "moral",
+        "sacrifice",
+        "compassion",
+        "rich",
+        "poor",
+        "beauty",
+        "love",
+        "irony",
+        "موضوع",
+        "سبق",
+        "قربانی",
+        "ہمدردی"
+      ],
+      "qa": [
+        {
+          "a": "اصل خوبصورتی محبت اور قربانی ہے؛ امیروں اور غریبوں کے درمیان بڑا فرق ہے۔ ظاہری سونا کچھ نہیں — اصل قدر دوسروں کی مدد میں ہے۔",
+          "aRoman": "Asli khoobsurti mohabbat aur qurbani hai; ameeron aur ghareebon ke darmiyan bara farq hai. Zahiri sona kuch nahi — asal qadar doosron ki madad mein hai.",
+          "followUp": "شہزادہ اپنے زیور دے کر غریب کیوں ہوتا گیا، پھر بھی کہانی اسے خوش کیوں کہتی ہے؟",
+          "followUpRoman": "Shahzada apne zewar de kar ghareeb kyun hota gaya, phir bhi kahani usay khush kyun kehti hai?",
+          "id": "E-Q4",
+          "q": "The Happy Prince ka moral / theme kya hai?"
+        },
+        {
+          "a": "شہزادے کو 'خوش' کہتے ہیں لیکن وہ زندگی میں خوش نہیں تھا — دکھ دیکھ کر ہی اس نے اصل خوشی (دوسروں کی مدد) پائی۔ اسی تضاد کو irony کہتے ہیں۔",
+          "aRoman": "Prince ko 'Happy' kehte hain lekin woh zindagi mein khush nahi tha — dukh dekh kar hi us ne asli khushi (doosron ki madad) payi. Isi tazad ko irony kehte hain.",
+          "followUp": "کہانی کا عنوان 'The Happy Prince' ستم ظریفی (irony) کیسے ہے — ایک جملے میں بتاؤ۔",
+          "followUpRoman": "Kahani ka title 'The Happy Prince' irony kaise hai — aik jumle mein batao.",
+          "id": "E-Q7",
+          "q": "Title ironic kyun hai?"
+        }
+      ],
+      "quiz": [
+        {
+          "answer": "sacrifice and compassion",
+          "explanation": "Story ka main theme qurbani aur hamdardi (sacrifice and compassion) hai.",
+          "explanationUr": "کہانی کا بنیادی موضوع قربانی اور ہمدردی (sacrifice and compassion) ہے۔",
+          "id": "E-QUIZ-5",
+          "options": [
+            "adventure",
+            "sacrifice and compassion",
+            "science",
+            "war"
+          ],
+          "question": "Story ka main theme kya hai?",
+          "topic": "Themes",
+          "type": "mcq"
+        }
+      ],
+      "section": "Themes",
+      "textEn": "Themes: (1) Outward beauty is nothing; real beauty is love and sacrifice. (2) Love and sacrifice are saving forces. (3) The gap between rich and poor, rulers and masses. The title is ironic: the 'Happy' Prince was never happy until he gave everything away.",
+      "textRoman": "Themes: (1) Zahiri khoobsurti kuch nahi; asal khoobsurti mohabbat aur qurbani hai. (2) Mohabbat aur qurbani bachaane wali taaqatein hain. (3) Ameeron aur ghareebon, hukmaranon aur awam ke darmiyan bara farq hai. Title mein irony hai: 'Happy' Prince zindagi mein khush nahi tha — jab us ne sab kuch de diya tab hi usay asal khushi mili.",
+      "textUr": "موضوعات (themes): (1) ظاہری خوبصورتی کچھ نہیں؛ اصل خوبصورتی محبت اور قربانی ہے۔ (2) محبت اور قربانی بچانے والی قوتیں ہیں۔ (3) امیروں اور غریبوں، حکمرانوں اور عوام کے درمیان بڑا فرق ہے۔ عنوان میں ستم ظریفی (irony) ہے: 'خوش' شہزادہ زندگی میں خوش نہیں تھا — جب اس نے سب کچھ دے دیا تب ہی اسے اصل خوشی ملی۔",
+      "title": "Themes and Moral"
+    },
+    {
+      "formulas": [],
+      "id": "eng-hp-5.3-characters",
+      "keywords": [
+        "characters",
+        "prince",
+        "swallow",
+        "seamstress",
+        "playwright",
+        "match-girl",
+        "kirdaar",
+        "کردار"
+      ],
+      "section": "Characters",
+      "textEn": "The Happy Prince — compassionate and selfless; he gives away everything he has. The Swallow — starts selfish, becomes loyal, sacrifices migration and life. The poor — the seamstress, the young playwright, the match-girl.",
+      "textRoman": "The Happy Prince — hamdard aur khud-gharz nahi; woh apna sab kuch de deta hai. The Swallow — shuru mein khud-gharz, phir wafadar ban jata hai; hijrat aur zindagi qurban kar deta hai. Ghareeb — darzan, naujawan dramay-nigar aur match bechne wali larki.",
+      "textUr": "خوش شہزادہ (The Happy Prince) — ہمدرد اور بے غرض؛ وہ اپنا سب کچھ دے دیتا ہے۔ ابابیل (The Swallow) — شروع میں خود غرض، پھر وفادار بن جاتا ہے؛ ہجرت اور زندگی قربان کر دیتا ہے۔ غریب — درزن، نوجوان ڈرامے نگار اور ماچس بیچنے والی لڑکی۔",
+      "title": "Characters"
+    },
+    {
+      "formulas": [],
+      "id": "eng-hp-5.4-vocabulary",
+      "keywords": [
+        "vocabulary",
+        "gilded",
+        "gold leaf",
+        "sapphire",
+        "ruby",
+        "hilt",
+        "compassion",
+        "sacrifice",
+        "selfless",
+        "misery",
+        "alms",
+        "alfaz",
+        "الفاظ"
+      ],
+      "qa": [
+        {
+          "a": "سنہ سے ملا ہوا / سونے کے ورق سے ڈھکا ہوا — جیسے مجسمہ سونے کے ورق سے ڈھکا تھا۔",
+          "aRoman": "Sone se mula hua / gold leaf se dhaka hua — jese statue gold leaf se dhaka tha.",
+          "followUp": "'Compassion' اور 'pity' میں کیا فرق ہے؟",
+          "followUpRoman": "'Compassion' aur 'pity' mein kya farq hai?",
+          "id": "E-Q6",
+          "q": "'Gilded' ka matlab kya hai?"
+        }
+      ],
+      "quiz": [
+        {
+          "answer": "Dusron ke dukh par hamdardi / reham",
+          "explanation": "Compassion ka matlab hai dusron ke dukh par hamdardi aur reham.",
+          "explanationUr": "Compassion کا مطلب ہے دوسروں کے دکھ پر ہمدردی اور رحم۔",
+          "id": "E-QUIZ-7",
+          "options": [
+            "Dusron ke dukh par hamdardi / reham",
+            "Sona khareedna",
+            "Tez daurna",
+            "Gussa karna"
+          ],
+          "question": "'Compassion' ka matlab kya hai?",
+          "topic": "Vocabulary",
+          "type": "mcq"
+        }
+      ],
+      "section": "Vocabulary",
+      "textEn": "Key words: gilded / gold leaf (covered in gold leaf), sapphire (blue gemstone), ruby (red gemstone), hilt (handle of a sword), compassion (feeling for others' suffering), sacrifice (giving up something precious for others), selfless, misery, alms.",
+      "textRoman": "Ahem alfaz: gilded / gold leaf (sone ke warq se dhaka hua), sapphire (neela qeemti pathar), ruby (lal qeemti pathar — yaqoot), hilt (talwaar ki muth), compassion (dusron ke dukh par hamdardi), sacrifice (dusron ke liye apni qeemti cheez qurban karna), selfless (be-gharz), misery (dukh/takleef), alms (khairat).",
+      "textUr": "اہم الفاظ: gilded / gold leaf (سونے کے ورق سے ڈھکا ہوا)، sapphire (نیلا قیمتی پتھر)، ruby (لال قیمتی پتھر — یاقوت)، hilt (تلوار کی مٹھی)، compassion (دوسروں کے دکھ پر ہمدردی)، sacrifice (دوسروں کے لیے اپنی قیمتی چیز قربان کرنا)، selfless (بے غرض)، misery (دکھ/تکلیف)، alms (خیرات)۔",
+      "title": "Vocabulary"
+    },
+    {
+      "formulas": [],
+      "id": "eng-hp-5.5-literary-point",
+      "keywords": [
+        "author",
+        "oscar wilde",
+        "1888",
+        "fairy tale",
+        "allegory",
+        "irony",
+        "published",
+        "مصنف",
+        "آسکر وائلڈ"
+      ],
+      "qa": [
+        {
+          "a": "آسکر وائلڈ (Oscar Wilde) نے، 1888 میں۔ یہ ایک fairy tale / allegory ہے۔",
+          "aRoman": "Oscar Wilde ne, 1888 mein. Ye aik fairy tale / allegory hai.",
+          "followUp": "Allegory کسے کہتے ہیں — اس کہانی میں allegory کیسے ہے؟",
+          "followUpRoman": "Allegory kise kehte hain — is kahani mein allegory kaise hai?",
+          "id": "E-Q1",
+          "q": "The Happy Prince kis ne likha?"
+        }
+      ],
+      "quiz": [
+        {
+          "answer": "Oscar Wilde",
+          "explanation": "'The Happy Prince' Oscar Wilde ne likha tha.",
+          "explanationUr": "'The Happy Prince' آسکر وائلڈ (Oscar Wilde) نے لکھا تھا۔",
+          "id": "E-QUIZ-1",
+          "options": [
+            "Shakespeare",
+            "Oscar Wilde",
+            "Dickens",
+            "Tagore"
+          ],
+          "question": "'The Happy Prince' ke author kaun hain?",
+          "topic": "About the Author",
+          "type": "mcq"
+        },
+        {
+          "answer": "1888",
+          "explanation": "Story pehli dafa kab chhapi?",
+          "id": "E-QUIZ-8",
+          "options": [
+            "1854",
+            "1888",
+            "1900",
+            "1920"
+          ],
+          "question": "Story pehli dafa kab chhapi?",
+          "topic": "About the Author",
+          "type": "mcq"
+        }
+      ],
+      "section": "About the Author",
+      "textEn": "The Happy Prince was written by Oscar Wilde and first published in 1888 in 'The Happy Prince and Other Tales'. It is a fairy tale and an allegory: the statue's sacrifice stands for love that gives everything away.",
+      "textRoman": "'The Happy Prince' Oscar Wilde ne likha aur pehli dafa 1888 mein 'The Happy Prince and Other Tales' mein chhapa. Ye aik fairy tale aur allegory hai: mujasme ki qurbani us mohabbat ki misaal hai jo sab kuch de deti hai. Title mein irony hai — 'khush' shahzada tab khush hua jab us ne sab kuch kho diya.",
+      "textUr": "'The Happy Prince' آسکر وائلڈ (Oscar Wilde) نے لکھا اور پہلی دفعہ 1888 میں 'The Happy Prince and Other Tales' میں چھپا۔ یہ ایک پریوں کی کہانی (fairy tale) اور تمثیل (allegory) ہے: مجسمے کی قربانی اس محبت کی مثال ہے جو سب کچھ دے دیتی ہے۔ عنوان میں ستم ظریفی (irony) ہے — 'خوش' شہزادہ تب خوش ہوا جب اس نے سب کچھ کھو دیا۔",
+      "title": "About the Author and the Tale"
+    }
+  ],
+  "class": 10,
+  "subject": "english"
+}
