@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+  <rect width="1200" height="520" fill="#fefce8"/>
+  <text x="600" y="44" text-anchor="middle" font-size="28" font-weight="800" fill="#14532d">UstaadAI — System Architecture</text>
+  <text x="600" y="74" text-anchor="middle" font-size="16" fill="#57534e">HackGlobal 2026 · Backend on Vultr Compute · Frontend on Vercel</text>
+
+  <!-- boxes -->
+  <g font-size="15" font-weight="600">
+    <rect x="30" y="140" width="190" height="110" rx="14" fill="#ffffff" stroke="#166534" stroke-width="2"/>
+    <text x="125" y="180" text-anchor="middle" fill="#14532d">Student browser</text>
+    <text x="125" y="205" text-anchor="middle" font-size="13" font-weight="400" fill="#57534e">Urdu / Roman Urdu /</text>
+    <text x="125" y="224" text-anchor="middle" font-size="13" font-weight="400" fill="#57534e">English</text>
+
+    <rect x="270" y="140" width="190" height="110" rx="14" fill="#dcfce7" stroke="#166534" stroke-width="2"/>
+    <text x="365" y="180" text-anchor="middle" fill="#14532d">Vercel</text>
+    <text x="365" y="205" text-anchor="middle" font-size="13" font-weight="400" fill="#57534e">Next.js 14 frontend</text>
+    <text x="365" y="224" text-anchor="middle" font-size="13" font-weight="400" fill="#57534e">(web/)</text>
+
+    <rect x="510" y="140" width="190" height="110" rx="14" fill="#ffffff" stroke="#166534" stroke-width="2"/>
+    <text x="605" y="180" text-anchor="middle" fill="#14532d">Vultr Compute</text>
+    <text x="605" y="205" text-anchor="middle" font-size="13" font-weight="400" fill="#57534e">nginx :80 reverse proxy</text>
+    <text x="605" y="224" text-anchor="middle" font-size="13" font-weight="400" fill="#57534e">Ubuntu 24.04 · systemd</text>
+
+    <rect x="750" y="140" width="200" height="110" rx="14" fill="#dcfce7" stroke="#166534" stroke-width="2"/>
+    <text x="850" y="175" text-anchor="middle" fill="#14532d">Node.js 24 + Express 5</text>
+    <text x="850" y="198" text-anchor="middle" fill="#14532d">API (TypeScript)</text>
+    <text x="850" y="222" text-anchor="middle" font-size="13" font-weight="400" fill="#57534e">PORT 3001 · api/</text>
+  </g>
+
+  <!-- arrows row 1 -->
+  <g stroke="#166534" stroke-width="3" fill="none" marker-end="url(#arrow)">
+    <line x1="220" y1="195" x2="270" y2="195"/>
+    <line x1="460" y1="195" x2="510" y2="195"/>
+    <line x1="700" y1="195" x2="750" y2="195"/>
+  </g>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#166534"/>
+    </marker>
+  </defs>
+
+  <!-- lower row -->
+  <g font-size="15" font-weight="600">
+    <rect x="510" y="330" width="190" height="100" rx="14" fill="#ffffff" stroke="#166534" stroke-width="2"/>
+    <text x="605" y="368" text-anchor="middle" fill="#14532d">JSON seeds</text>
+    <text x="605" y="393" text-anchor="middle" font-size="13" font-weight="400" fill="#57534e">4 chapters · 27 chunks</text>
+    <text x="605" y="412" text-anchor="middle" font-size="13" font-weight="400" fill="#57534e">33 Q&amp;A · 32 quiz items</text>
+
+    <rect x="750" y="330" width="200" height="100" rx="14" fill="#ffffff" stroke="#166534" stroke-width="2"/>
+    <text x="850" y="368" text-anchor="middle" fill="#14532d">SQLite</text>
+    <text x="850" y="393" text-anchor="middle" font-size="13" font-weight="400" fill="#57534e">sessions · quiz attempts</text>
+    <text x="850" y="412" text-anchor="middle" font-size="13" font-weight="400" fill="#57534e">progress (node:sqlite)</text>
+
+    <rect x="990" y="330" width="180" height="100" rx="14" fill="#fffbeb" stroke="#d97706" stroke-width="2" stroke-dasharray="7 4"/>
+    <text x="1080" y="368" text-anchor="middle" fill="#92400e">Gemini API</text>
+    <text x="1080" y="393" text-anchor="middle" font-size="13" font-weight="400" fill="#57534e">optional, grounded</text>
+    <text x="1080" y="412" text-anchor="middle" font-size="13" font-weight="400" fill="#57534e">only — never required</text>
+  </g>
+  <g stroke="#166534" stroke-width="3" fill="none" marker-end="url(#arrow)">
+    <line x1="800" y1="250" x2="640" y2="330"/>
+    <line x1="880" y1="250" x2="860" y2="330"/>
+  </g>
+  <g stroke="#d97706" stroke-width="3" fill="none" stroke-dasharray="7 4" marker-end="url(#arrow2)">
+    <line x1="950" y1="200" x2="1080" y2="330"/>
+  </g>
+  <defs>
+    <marker id="arrow2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#d97706"/>
+    </marker>
+  </defs>
+
+  <text x="600" y="490" text-anchor="middle" font-size="15" font-weight="600" fill="#14532d">Grounding contract: off-syllabus gate runs BEFORE any LLM call · every answer cites chapter + section · numerics solved exactly by code · no key → honest deterministic mode</text>
+</svg>
