@@ -52,7 +52,12 @@ UstaadAI meets students in their own language, grounded in their own textbooks.
 
 ## Run locally
 
-Backend (port 3001):
+```bash
+git clone https://github.com/umarshareef0165-netizen/ustaadai.git
+cd ustaadai
+```
+
+Backend (port 3001) — run this first:
 
 ```bash
 cd api
